@@ -1,0 +1,5 @@
+GCN Results on Pubmed/n==============================
+accuracy: 0.7870
+precision: 0.7774
+recall: 0.7986
+f1: 0.7838
