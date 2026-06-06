@@ -1,0 +1,6 @@
+GCN Results on Citeseer
+==============================
+accuracy: 0.6800
+precision: 0.6852
+recall: 0.6800
+f1: 0.6783
