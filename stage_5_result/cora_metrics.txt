@@ -1,6 +1,0 @@
-GCN Results on Cora
-==============================
-accuracy: 0.8340
-precision: 0.8162
-recall: 0.8356
-f1: 0.8206
